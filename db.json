@@ -1,14 +1,39 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+ "Detail1" : [ 
+ { 
+  "Name" : "Kumaresan",
+  "Age" : 25,
+  "CourseCompleted" : "MCA",
+  "CourseCurrentlyGoing" : "Java Selenium",
+  "Skills" : [ 
+     "Programming : Java",
+     "Automationtool : Selenium",
+     "Frameworks : Junit,TestNG,Cucumber"
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+  "SelfProjects" : [ 
+     "Project 1 : Automating Forms Validation",
+     "Project 2 : Web Scrapping tool for Instagram Insights"
+  ]
   }
+]
+},
+{
+ "Detail2" : [ 
+ 
+ 	{
+ 		"Name" : "Ravi",
+ 		"Age" : 25,
+ 		"CourseCompleted" : "MCA",
+ 		"CourseCurrentlyGoing" : "Photoshop",
+ 		"Skills" : [ 
+ 			"Programming : Java",
+ 			"Automation Tool : Selenium",
+ 			"Frameworks : Junit,TestNG",
+ 		],
+ 		"SelfProjects" : [ 
+ 				"Project 1 : Amazon app module",
+ 				"Project 2 : FLipkart App module"
+ 		]
+ 	}
+ ]
 }
