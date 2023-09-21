@@ -15,10 +15,8 @@
      "Project 2 : Web Scrapping tool for Instagram Insights"
   ]
   }
-]
-},
-{
- "Detail2" : [ 
+],
+  "Detail2" : [ 
  
  	{
  		"Name" : "Ravi",
@@ -34,6 +32,7 @@
  				"Project 1 : Amazon app module",
  				"Project 2 : FLipkart App module"
  		]
- 	}
- ]
 }
+
+
+ 	
